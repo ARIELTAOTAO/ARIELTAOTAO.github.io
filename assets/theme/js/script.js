@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 !function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.ws">Mobirise Website Builder</a> v4.10.3';document.body.insertBefore(a,document.body.childNodes[0])}}();
->>>>>>> e2375242618b67e5f21902890500da31a3aaf59c
 (function($) {
 
     var isBuilder = $('html').hasClass('is-builder');
@@ -1085,7 +1082,3 @@
         $(e.target).parents('.form-group').find('.value')[0].innerHTML = e.target.value;
     });
 })(jQuery);
-<<<<<<< HEAD
-!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.ws">Mobirise Website Builder</a> v4.10.3';document.body.insertBefore(a,document.body.childNodes[0])}}();
-=======
->>>>>>> e2375242618b67e5f21902890500da31a3aaf59c
